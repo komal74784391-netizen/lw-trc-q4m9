@@ -1,0 +1,8 @@
+ref,value,package,quantity,notes
+R3,10k NTC B3950,0805,2,sensor bridge
+R4,49.9k 0.1%,0603,4,setpoint divider
+C4,1uF X7R,0805,3,loop filter
+U2,LT3080,DPAK,1,linear pass element
+U3,ADS1115,VSSOP-10,1,16-bit ADC
+Q2,IRLZ44N,TO-220,1,heater switch
+J2,5.08mm 1x4,THT,1,heater and sensor
